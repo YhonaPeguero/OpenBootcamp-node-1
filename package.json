@@ -1,0 +1,17 @@
+{
+  "name": "primeros-pasos",
+  "version": "1.0.0",
+  "description": "Probando primer proyecto de JavaScript en Openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo. :)",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "first",
+    "project"
+  ],
+  "author": "Yhonatan Peguero",
+  "license": "ISC"
+}
